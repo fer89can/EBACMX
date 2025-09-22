@@ -4,3 +4,5 @@ b=20
 c=30*10*5
 print('resultado=',c)
 
+d=c*100
+print('resultado total=',d)
